@@ -1,0 +1,5 @@
+Total Requests: 5
+Unique IPs: 3
+GET Requests: 3
+POST Requests: 2
+Error Requests (4xx/5xx): 3
